@@ -50,7 +50,7 @@ Ensure that the following environment variables are set before running the scrip
 * `core` (bool): A flag to determine the domain to use.
 
 Returns
-* `str`: The OAuth token.~~
+* `str`: The OAuth token.
 
 ## Example
 ```sh
